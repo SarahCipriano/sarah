@@ -95,6 +95,116 @@ body {
     background-repeat: no-repeat;
 }
 
+.list-item7 {
+    flex-basis: 280px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .2);
+    background-image: url(imagens/thumb07.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.list-item8 {
+    flex-basis: 280px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .2);
+    background-image: url(imagens/thumb08.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.list-item9 {
+    flex-basis: 280px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .2);
+    background-image: url(imagens/thumb09.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+
+.list-item10 {
+    flex-basis: 280px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .2);
+    background-image: url(imagens/thumb10.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+
+.list-item11 {
+    flex-basis: 280px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .2);
+    background-image: url(imagens/thumb11.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+
+.list-item12 {
+    flex-basis: 280px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .2);
+    background-image: url(imagens/thumb12.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+
+.list-item13 {
+    flex-basis: 280px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .2);
+    background-image: url(imagens/thumb13.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+
+.list-item14 {
+    flex-basis: 280px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .2);
+    background-image: url(imagens/thumb14.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+
+.list-item15 {
+    flex-basis: 280px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .2);
+    background-image: url(imagens/thumb15.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+
+.list-item16 {
+    flex-basis: 280px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .2);
+    background-image: url(imagens/thumb16.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+
 .list-item__imagem img {
     border-radius: 50%;
     width: 80px;
